@@ -16,7 +16,6 @@ class About extends Me {
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="27" /> &nbsp; AI specialist 🤖 | Living in a world of neural networks & caffeine!<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="22" />&nbsp;&nbsp;&nbsp; Big fan of AI—training models and hoping they don’t replace me <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="27" />&nbsp;&nbsp; Ask me about **AI, Web3, SciFi / Fantasy Movies,** or **anything**. <br>
-&nbsp;&nbsp;
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="27" /> aiemperor@icloud.com<br>
 
 
