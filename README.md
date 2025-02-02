@@ -4,8 +4,9 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Python", "Javascript", "Typescript", "C++", "Rust", "Golang", "Solidity"},
+    "Machine Learning & AI Frameworks": ["TensorFlow", "PyTorch", "Hugging Face Transformers", "Scikit-learn"],
     "Frameworks" : { "React", "Vue.js", "Django", "FastAPI", "Next.js", "Node.js", "Cypress", "LangChain"},
-    "Library/APIs" : { "GraphQL", "Apollo", "SQLAlchemy", "TensorFlow", "PyTorch" },
+    "Library/APIs" : { "GraphQL", "OpenAI API", "Pandas", "NumPy", "SQLAlchemy", "TensorFlow", "PyTorch" },
     "Platforms" : { "AWS", "GCP", "Azure", "Nginx", "Docker"},
     "OtherTools" : { "Git", "Figma", "CircleCI", "Storybook", "RabbitMQ" }
   };
