@@ -3,8 +3,8 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript", "Typescript", "SQL", "C++", "R", "Golang"},
-    "Machine Learning & AI": ["TensorFlow", "PyTorch", "Hugging Face Transformers", "Scikit-learn"],
+    "ProgramingLanguages" : { "Python", "Javascript", "Typescript", "SQL", "C++", "R", "Golang" },
+    "Machine Learning & AI": { "TensorFlow", "PyTorch", "Hugging Face Transformers", "Scikit-learn" },
     "Big Data & Cloud" : { "Apache Spark", "Hadoop", "GCP", "AWS", "Azure"},
     "Databases" : { "PostgreSQL", "MySQL", "MongoDB", "Redis" },
     "Library/APIs" : { "GraphQL", "OpenAI API", "Pandas", "NumPy", "SQLAlchemy", "TensorFlow", "PyTorch" },
