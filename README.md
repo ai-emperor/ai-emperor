@@ -9,7 +9,7 @@ class About extends Me {
     "Databases" : { "PostgreSQL", "MySQL", "MongoDB", "Redis" },
     "Library/APIs" : { "GraphQL", "OpenAI API", "Pandas", "NumPy", "SQLAlchemy", "TensorFlow", "PyTorch" },
     "Platforms" : { "AWS", "GCP", "Azure", "Docker"},
-    "OtherTools" : { "Git", "Docker", "Kubernetes", "Storybook", "Power BI" }
+    "OtherTools" : { "Git", "Docker", "Kubernetes", "Storybook", "Power BI", "Jupyter Notebook" }
   };
 }
 ```
